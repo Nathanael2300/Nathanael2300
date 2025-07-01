@@ -7,8 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-henrique-souza-nunes-256499330/)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
-<img src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e7d2bd61228185.5a67a07360e75.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMncxMzc4eXkwejUzcGR2ZTFkYXUzNmdweWNzZ3JsZWhyYXdmOGk5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Game+Developer;3D+Artist;Criatividade+Sem+Limites!"/>
+  <br/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzgxZG9vbnI3bGVpcXJpZm55ZW9wbzJhNHZmYWhmMXFuc3Z6YWg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ec4eYyyV3lDdZQN3tM/giphy.gif" width="600"/>
 </p>
 
 ## Linguagens: 
