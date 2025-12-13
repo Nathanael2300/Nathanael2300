@@ -1,4 +1,4 @@
-# Olá, meu nome é Nathanael Henrique
+# Olá, meu nome é Nathanael Henrique Souza Nunes
 ## Sou um QA Engineer apaixonado pelo mundo da tecnologia e pela qualidade de software. | Siga para ver mais sobre meus projetos e testes.
 
 ## Redes Sociais:
