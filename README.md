@@ -1,5 +1,5 @@
 # Olá, meu nome é Nathanael Henrique Souza Nunes
-## Sou um QA Engineer apaixonado pelo mundo da tecnologia e pela qualidade de software. | Siga para ver mais sobre meus projetos e testes.
+## Futuro QA Engineer / SDET focado em qualidade de software, automação de testes e desenvolvimento back-end. Compartilho projetos, testes de API e minha evolução na área.
 
 ## Redes Sociais:
 
